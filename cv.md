@@ -9,6 +9,7 @@ Contacts
 * **Location:** Minsk, Belarus
 * **Phone:** +375 29 842-27-71
 * **Email:** pavelmuha9@gmail.com
+* **Telegram:** @pashaio
 * **GitHub:** [Pasha-io](github.com/Pasha-io)
 ----------
 
@@ -51,4 +52,3 @@ Education
 Language
 ----------
 * English level - A2
-
